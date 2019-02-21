@@ -14,7 +14,7 @@
 
 An intuitive way of understanding [a Wiener process](https://en.wikipedia.org/wiki/Wiener_process) is seeing it as a limit of [random walk](https://github.com/joseprupi/randomwalk). From wikipedia:
 
-Let $$\Epsilon_1$$
+Let $$\xi_1$$
 
 
 
