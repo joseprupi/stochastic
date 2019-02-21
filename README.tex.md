@@ -15,6 +15,10 @@ $$W_{n}(t)={\frac {1}{\sqrt {n}}}\sum \limits _{1\leq k\leq \lfloor nt\rfloor }\
 
 And also from wikipedia, a Wiener process has to follow below properties:
 
+
+* test
+* test
+
 * $W_{0}=0$ a.s.
 * $W$ has independent increments: for every $\t>0,$ the future increments $W_{t+u}-W_{t},$ $u\geq 0,$, are independent of the past values $ s<t.$
 {\displaystyle W} W has Gaussian increments: {\displaystyle W_{t+u}-W_{t}} {\displaystyle W_{t+u}-W_{t}} is normally distributed with mean {\displaystyle 0} {\displaystyle 0} and variance {\displaystyle u} u, {\displaystyle W_{t+u}-W_{t}\sim {\mathcal {N}}(0,u).} {\displaystyle W_{t+u}-W_{t}\sim {\mathcal {N}}(0,u).}
