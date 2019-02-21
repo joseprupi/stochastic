@@ -18,3 +18,4 @@ An intuitive way of understanding [a Wiener process](https://en.wikipedia.org/wi
 
 
 <p align="center"><img src="/tex/cbe2baa9af8de8d6361d646248ceadf3.svg?invert_in_darkmode&sanitize=true" align=middle width=271.98184695pt height=45.002035649999996pt/></p>
+
