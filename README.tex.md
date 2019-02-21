@@ -18,4 +18,3 @@ An intuitive way of understanding [a Wiener process](https://en.wikipedia.org/wi
 
 
 $$W_{n}(t)={\frac {1}{\sqrt {n}}}\sum \limits _{1\leq k\leq \lfloor nt\rfloor }\xi _{k},\qquad t\in [0,1]$$
-
