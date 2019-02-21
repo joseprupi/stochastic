@@ -24,3 +24,5 @@ The easiest example I can think about would be tossing a coin and accumulate the
 In a formal way we can write the Law of Large Numbers as:
 
 $$\lim_{n\to\infty}Pr(|\overline{X_n}-\mu| \geq\epsilon) = 0 \text{  for any  }\epsilon$$
+
+
