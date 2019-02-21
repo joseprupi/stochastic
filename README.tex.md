@@ -1,7 +1,4 @@
 # Some intuition behind random walks #
-<figure>
-    <img src="/img/galton2.gif" width="100%">
-</figure>
 
 [Independent and identically distributed random variables](#independent-and-identically-distributed-random-variables)
 
