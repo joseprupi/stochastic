@@ -14,4 +14,5 @@
 
 An intuitive way of understanding [a Wiener process](https://en.wikipedia.org/wiki/Wiener_process) is seeing it as a limit of [random walk](https://github.com/joseprupi/randomwalk). From wikipedia:
 
-Let <img src="/tex/e2332b9cbd8da28c27ef3e436f0a890b.svg?invert_in_darkmode&sanitize=true" align=middle width=13.74435974999999pt height=22.831056599999986pt/>
+Let <img src="/tex/77f80dcb57870d15d47ff42fd83925b9.svg?invert_in_darkmode&sanitize=true" align=middle width=65.30938425pt height=22.831056599999986pt/> be i.i.d. random variables with mean 0 and variance 1. For each n, define a continuous time stochastic process:
+
