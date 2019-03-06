@@ -22,4 +22,4 @@ And also from wikipedia, a Wiener process has to follow below properties:
 
 So, with all this properties we can say that:
 
-* The change $\Delta z$ during a small period of time $\Delta t$ is: $\Delta z = \epsilon\sqrt{\Delta t}$
+* The change $\Delta z$ during a small period of time $\Delta t$ is: $\Delta z = \epsilon\sqrt{\Delta t}$ where $\epsilon$ has a normal distribution of $\phi(0,1)$
