@@ -23,5 +23,5 @@ And also from wikipedia, a Wiener process has to follow below properties:
 So, with all this properties we can say that a variable $z$ follows a Wiener process if:
 
 * The change $\Delta z$ during a small period of time $\Delta t$ is: $\Delta z = \epsilon\sqrt{\Delta t}$ where $\epsilon$ has a normal distribution of $\phi(0,1)$
-* The values of $\Delta z for any two different short intervals of time, $\Delta t$, are independent.
+* The values of $\Delta z$ for any two different short intervals of time, $\Delta t$, are independent.
 
