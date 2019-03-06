@@ -19,3 +19,7 @@ And also from wikipedia, a Wiener process has to follow below properties:
 * $W$ has independent increments: for every $t>0,$ the future increments $W_{t+u}-W_{t},$ $u\geq 0,$, are independent of the past values $W_s, s<t.$
 * $W$ has Gaussian increments: $W_{t+u}-W_{t}$ is normally distributed with mean $0$ and variance $u$, $W_{t+u}-W_{t}\sim {\mathcal {N}}(0,u).$
 * $W$ has continuous paths: With probability $1$, $W_{t}$ is continuous in $t$.
+
+So, with all this properties we can say that:
+
+* The change $\Delta z$ during a small period of time $\Delta t$ is: $\Delta z$
