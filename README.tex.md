@@ -20,6 +20,8 @@ And also from wikipedia, a Wiener process has to follow below properties:
 * $W$ has Gaussian increments: $W_{t+u}-W_{t}$ is normally distributed with mean $0$ and variance $u$, $W_{t+u}-W_{t}\sim {\mathcal {N}}(0,u).$
 * $W$ has continuous paths: With probability $1$, $W_{t}$ is continuous in $t$.
 
-So, with all this properties we can say that:
+So, with all this properties we can say that a variable $z$ follows a Wiener process if:
 
 * The change $\Delta z$ during a small period of time $\Delta t$ is: $\Delta z = \epsilon\sqrt{\Delta t}$ where $\epsilon$ has a normal distribution of $\phi(0,1)$
+* The values of $\Delta z for any two different short intervals of time, $\Delta t$, are independent.
+
