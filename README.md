@@ -22,4 +22,4 @@ And also from wikipedia, a Wiener process has to follow below properties:
 
 So, with all this properties we can say that:
 
-* The change <img src="/tex/d8cdb2a4c018cdd28ba3a4b7d3fa7f9e.svg?invert_in_darkmode&sanitize=true" align=middle width=22.06629479999999pt height=22.465723500000017pt/> during a small period of time <img src="/tex/5a63739e01952f6a63389340c037ae29.svg?invert_in_darkmode&sanitize=true" align=middle width=19.634768999999988pt height=22.465723500000017pt/> is: <img src="/tex/d8cdb2a4c018cdd28ba3a4b7d3fa7f9e.svg?invert_in_darkmode&sanitize=true" align=middle width=22.06629479999999pt height=22.465723500000017pt/>
+* The change <img src="/tex/d8cdb2a4c018cdd28ba3a4b7d3fa7f9e.svg?invert_in_darkmode&sanitize=true" align=middle width=22.06629479999999pt height=22.465723500000017pt/> during a small period of time <img src="/tex/5a63739e01952f6a63389340c037ae29.svg?invert_in_darkmode&sanitize=true" align=middle width=19.634768999999988pt height=22.465723500000017pt/> is: <img src="/tex/694b2fafa6accba266408c65e17861e8.svg?invert_in_darkmode&sanitize=true" align=middle width=83.98975364999998pt height=29.150579699999998pt/>
