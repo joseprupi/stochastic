@@ -25,7 +25,7 @@ So, with all this properties and as is stated at *Hull's Options, Futures, and O
 * The change $\Delta z$ during a small period of time $\Delta t$ is: $\Delta z = \epsilon\sqrt{\Delta t}$ where $\epsilon$ has a normal distribution of $\phi(0,1)$. So $\Delta z$ will have a mean of $0$ and a variance of $\Delta t$. 
 * The values of $\Delta z$ for any two different short intervals of time, $\Delta t$, are independent.
 
-It can be seen [here](https://github.com/joseprupi/randomwalk) that for a variable $X$ that can take values $1$ and $-1$ with probability of $\frac{1}{2}$ each, the random variable $Y = ( X_{1}+\cdots +X_{n})$ will have a $\sqrt{n}N\left(0,1\right)$ distribution. So, for a period of time $T$ if we take $z(T)-z(0)$ where
+It can be seen [here](https://github.com/joseprupi/randomwalk) that for a variable $X$ that can take values $1$ and $-1$ with probability of $\frac{1}{2}$ each, the random variable $Y = ( X_{1}+\cdots +X_{n})$ (random walk) will have a $\sqrt{n}N\left(0,1\right)$ distribution. So, for a period of time $T$ if we take $z(T)-z(0)$ where
 $$ N = \frac{T}{\Delta t}$$
 for small N, then:
 
