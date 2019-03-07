@@ -36,4 +36,4 @@ $$dx=adt+bdz$$
 
 Taking a look to the two terms separately we see that integrating $dx=adt$ we get that $x=x_0+at$ which basically gives a drift to the process, for each unit of time the process increases $a$.
 
-The $dz$ term can be seen as 
+Being $z$ the aforementioned variabe, the $dz$ term can be seen as 
