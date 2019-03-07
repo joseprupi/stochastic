@@ -30,7 +30,9 @@ It can be seen [here](https://github.com/joseprupi/randomwalk) that for a variab
 * Mean of $[z(T) - z(0)] = 0$
 * Standard deviation of f $[z(T) - z(0)] = \sqrt{T}$
 
-A generilized Wiener process in terms of $dz$ is one with the form:
+A generilized Wiener process in terms of $dz$ is one of the form:
 
 $$dx=adt+bdz$$
+
+Taking a look to the two terms separately we see that integrating $dx=adt$ we get that $x=x_0+at$ which basically gives a drift to the process, for each unit of time the process increases $a$.
 
