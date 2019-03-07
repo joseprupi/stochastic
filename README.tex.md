@@ -22,5 +22,5 @@ And also from wikipedia, a Wiener process has to follow below properties:
 
 So, with all this properties and as is stated at *Hull's Options, Futures, and Other Derivatives* we can say that a variable $z$ follows a Wiener process if:
 
-* The change $\Delta z$ during a small period of time $\Delta t$ is: $\Delta z = \epsilon\sqrt{\Delta t}$ where $\epsilon$ has a normal distribution of $\phi(0,1)$. So $\Delta z$ will have a mean of $0$ and a variance of $\Delta t$
+* The change $\Delta z$ during a small period of time $\Delta t$ is: $\Delta z = \epsilon\sqrt{\Delta t}$ where $\epsilon$ has a normal distribution of $\phi(0,1)$. So $\Delta z$ will have a mean of $0$ and a variance of $\Delta t$. It can be seen [here](https://github.com/joseprupi/randomwalk) that for a random walk $\frac{1}{\sqrt{n}}\left( X_{1}+\cdots +X_{n} \right)\ {\xrightarrow {}}\ N\left(0,1\right) $ 
 * The values of $\Delta z$ for any two different short intervals of time, $\Delta t$, are independent.
