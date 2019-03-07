@@ -30,7 +30,9 @@ It can be seen [here](https://github.com/joseprupi/randomwalk) that for a variab
 * Mean of <img src="/tex/a093d76e782aa5429c6324861041f37f.svg?invert_in_darkmode&sanitize=true" align=middle width=121.77510344999997pt height=24.65753399999998pt/>
 * Standard deviation of f <img src="/tex/21bc6de0e3d69c1f78793474cd413575.svg?invert_in_darkmode&sanitize=true" align=middle width=139.14388125pt height=29.150579699999998pt/>
 
-A generilized Wiener process in terms of <img src="/tex/2e944e0b95668f7253eccfd0ca30b88f.svg?invert_in_darkmode&sanitize=true" align=middle width=16.92358634999999pt height=22.831056599999986pt/> is one with the form:
+A generilized Wiener process in terms of <img src="/tex/2e944e0b95668f7253eccfd0ca30b88f.svg?invert_in_darkmode&sanitize=true" align=middle width=16.92358634999999pt height=22.831056599999986pt/> is one of the form:
 
 <p align="center"><img src="/tex/22cdcf55485e85e1dfa2ab59db7d7050.svg?invert_in_darkmode&sanitize=true" align=middle width=107.11937115pt height=12.785402849999999pt/></p>
+
+Taking a look to the two terms separately we see that integrating <img src="/tex/22a7811a6318a7df3e585833357d9aa3.svg?invert_in_darkmode&sanitize=true" align=middle width=63.04979669999999pt height=22.831056599999986pt/> we get that <img src="/tex/ff1e3ffd85200d55fa02d702acb2546d.svg?invert_in_darkmode&sanitize=true" align=middle width=82.79850974999998pt height=20.221802699999984pt/> which basically gives a drift to the process, for each unit of time the process increases <img src="/tex/44bc9d542a92714cac84e01cbbb7fd61.svg?invert_in_darkmode&sanitize=true" align=middle width=8.68915409999999pt height=14.15524440000002pt/>.
 
