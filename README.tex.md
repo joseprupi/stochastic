@@ -28,7 +28,7 @@ So, with all this properties and as is stated at *Hull's Options, Futures, and O
 It can be seen [here](https://github.com/joseprupi/randomwalk) that for a variable $X$ that can take values $1$ and $-1$ with probability of $\frac{1}{2}$ each, the random variable $Y = ( X_{1}+\cdots +X_{n})$ (random walk) will have a $\sqrt{n}N\left(0,1\right)$ distribution. So, for a period of time $T$ if we take $z(T)-z(0)$ with $ N = \frac{T}{\Delta t}$ and for small N, then:
 
 * Mean of $[z(T) - z(0)] = 0$
-* Standard deviation of f $[z(T) - z(0)] = \sqrt{T}$
+* Standard deviation of $[z(T) - z(0)] = \sqrt{T}$
 
 A generilized Wiener process in terms of $dz$ is one of the form:
 
@@ -36,4 +36,7 @@ $$dx=adt+bdz$$
 
 Taking a look to the two terms separately we see that integrating $dx=adt$ we get that $x=x_0+at$ which basically gives a drift to the process, for each unit of time the process increases $a$.
 
-Being $z$ the aforementioned variabe, the $dz$ term can be seen as 
+Being $z$ the aforementioned variabe, the $dz$ term can be seen as adding $b$ variance to the process having now:
+
+* Mean of $\Delta x = a\Delta t$
+* Standard deviation of $\Delta x = b\sqrt{\Delta T}$
