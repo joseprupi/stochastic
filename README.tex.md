@@ -13,12 +13,12 @@ $$W_{n}(t)={\frac {1}{\sqrt {n}}}\sum \limits _{1\leq k\leq \lfloor nt\rfloor }\
 
 **This is a random step function. Increments $W_{n}$ are independent because the $\xi _{k}$ are independent. For large n, $W_{n}(t)-W_{n}(s)$ is close to $N(0,t-s)$ [by the central limit theorem](https://github.com/joseprupi/randomwalk#central-limit-theorem). Donsker's theorem proved that as $n\to \infty$ , $W_{n}$ approaches a Wiener process, which explains the ubiquity of Brownian.**
 
-And also from wikipedia, a Wiener process has to follow below properties **:
+And also from wikipedia, a Wiener process has to follow below properties:
 
-* $W_{0}=0$ a.s.
-* $W$ has independent increments: for every $t>0,$ the future increments $W_{t+u}-W_{t},$ $u\geq 0,$, are independent of the past values $W_s, s<t.$
-* $W$ has Gaussian increments: $W_{t+u}-W_{t}$ is normally distributed with mean $0$ and variance $u$, $W_{t+u}-W_{t}\sim {\mathcal {N}}(0,u).$
-* $W$ has continuous paths: With probability $1$, $W_{t}$ is continuous in $t$**.
+* **$W_{0}=0$ a.s.**
+* **$W$ has independent increments: for every $t>0,$ the future increments $W_{t+u}-W_{t},$ $u\geq 0,$, are independent of the past values $W_s, s<t.$**
+* **$W$ has Gaussian increments: $W_{t+u}-W_{t}$ is normally distributed with mean $0$ and variance $u$, $W_{t+u}-W_{t}\sim {\mathcal {N}}(0,u).$**
+* **$W$ has continuous paths: With probability $1$, $W_{t}$ is continuous in $t$.**
 
 So, with all this properties and as is stated at *Hull's Options, Futures, and Other Derivatives* we can say that a variable $z$ follows a Wiener process if:
 
