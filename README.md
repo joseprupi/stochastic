@@ -40,3 +40,5 @@ Being <img src="/tex/f93ce33e511096ed626b4719d50f17d2.svg?invert_in_darkmode&san
 
 * Mean of <img src="/tex/57277d1c5288e2d2917eaa27de8ce56a.svg?invert_in_darkmode&sanitize=true" align=middle width=73.33521359999999pt height=22.465723500000017pt/>
 * Standard deviation of <img src="/tex/80a603df535441b2a9647f190e0fd0c9.svg?invert_in_darkmode&sanitize=true" align=middle width=91.35274499999998pt height=29.150579699999998pt/>
+
+Discretizing the process and with a small <img src="/tex/5a63739e01952f6a63389340c037ae29.svg?invert_in_darkmode&sanitize=true" align=middle width=19.634768999999988pt height=22.465723500000017pt/> we can now plot a sample of one possible path of the process.
