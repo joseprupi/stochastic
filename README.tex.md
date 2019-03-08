@@ -41,7 +41,7 @@ Being $z$ the aforementioned variabe, the $dz$ term can be seen as adding $b$ va
 * Mean of $\Delta x = a\Delta t$
 * Standard deviation of $\Delta x = b\sqrt{\Delta T}$
 
-Discretizing the process and with a small $\Delta t$ we can now plot a sample of one possible path of the process, lets say $a=3$ and $b=4$
+Discretizing the process and with a small $\Delta t$ we can now plot a sample of one possible path of the process, lets say $a=0.05$ and $b=20$
 
 
 ```python
