@@ -42,3 +42,37 @@ Being <img src="/tex/f93ce33e511096ed626b4719d50f17d2.svg?invert_in_darkmode&san
 * Standard deviation of <img src="/tex/80a603df535441b2a9647f190e0fd0c9.svg?invert_in_darkmode&sanitize=true" align=middle width=91.35274499999998pt height=29.150579699999998pt/>
 
 Discretizing the process and with a small <img src="/tex/5a63739e01952f6a63389340c037ae29.svg?invert_in_darkmode&sanitize=true" align=middle width=19.634768999999988pt height=22.465723500000017pt/> we can now plot a sample of one possible path of the process, lets say <img src="/tex/3963cbc0462f3f7c9ac1b289506c6335.svg?invert_in_darkmode&sanitize=true" align=middle width=38.82599489999999pt height=21.18721440000001pt/> and <img src="/tex/87d6937cb8928dc5b1aeeac295f142f4.svg?invert_in_darkmode&sanitize=true" align=middle width=37.19163689999999pt height=22.831056599999986pt/>
+
+
+```python
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+T = 10
+n = 1000
+dT = T / n
+a = 0.05
+b = 20
+
+
+def randomwalk(n, dT, b):
+    normal_values = np.random.normal(0, b * dT ** (1 / 2), n)
+    walk = np.cumsum(normal_values)
+    return walk
+
+
+particularWalk = randomwalk(n, dT, b)
+drift = np.cumsum(np.full(n, a))
+
+plt.plot(np.arange(n), particularWalk, color='green')
+plt.plot(np.arange(n), particularWalk + drift, color='royalblue')
+
+x = np.arange(n)
+
+plt.plot(x, drift, linewidth=1, color='red')
+
+plt.grid()
+plt.show()
+
+```
