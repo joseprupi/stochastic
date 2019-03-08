@@ -43,6 +43,7 @@ Being $z$ the aforementioned variabe, the $dz$ term can be seen as adding $b$ va
 
 Discretizing the process and with a small $\Delta t$ we can now plot a sample of one possible path of the process, lets say $a=0.05$ and $b=20$
 
+[generalized_wiener_process.py](https://github.com/joseprupi/stochastic/blob/master/python/generalized_wiener_process.py)
 
 ```python
 
@@ -76,3 +77,7 @@ plt.grid()
 plt.show()
 
 ```
+
+<figure>
+    <img src="/img/generalized_wiener.png" >
+</figure>
