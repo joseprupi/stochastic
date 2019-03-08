@@ -41,7 +41,7 @@ Being <img src="/tex/f93ce33e511096ed626b4719d50f17d2.svg?invert_in_darkmode&san
 * Mean of <img src="/tex/57277d1c5288e2d2917eaa27de8ce56a.svg?invert_in_darkmode&sanitize=true" align=middle width=73.33521359999999pt height=22.465723500000017pt/>
 * Standard deviation of <img src="/tex/80a603df535441b2a9647f190e0fd0c9.svg?invert_in_darkmode&sanitize=true" align=middle width=91.35274499999998pt height=29.150579699999998pt/>
 
-Discretizing the process and with a small <img src="/tex/5a63739e01952f6a63389340c037ae29.svg?invert_in_darkmode&sanitize=true" align=middle width=19.634768999999988pt height=22.465723500000017pt/> we can now plot a sample of one possible path of the process, lets say <img src="/tex/3963cbc0462f3f7c9ac1b289506c6335.svg?invert_in_darkmode&sanitize=true" align=middle width=38.82599489999999pt height=21.18721440000001pt/> and <img src="/tex/87d6937cb8928dc5b1aeeac295f142f4.svg?invert_in_darkmode&sanitize=true" align=middle width=37.19163689999999pt height=22.831056599999986pt/>
+Discretizing the process and with a small <img src="/tex/5a63739e01952f6a63389340c037ae29.svg?invert_in_darkmode&sanitize=true" align=middle width=19.634768999999988pt height=22.465723500000017pt/> we can now plot a sample of one possible path of the process, lets say <img src="/tex/499152d1ca11b8e8a95f5ceca916a341.svg?invert_in_darkmode&sanitize=true" align=middle width=59.830636799999986pt height=21.18721440000001pt/> and <img src="/tex/c802c51e1fb29c2251849264a2a883a4.svg?invert_in_darkmode&sanitize=true" align=middle width=45.41084624999999pt height=22.831056599999986pt/>
 
 
 ```python
