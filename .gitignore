@@ -1,4 +1,5 @@
+.gitignore
 autocomit.sh
 fswatch_script.sh
-autocommitmac.sh
+autocomitmac.sh
 
