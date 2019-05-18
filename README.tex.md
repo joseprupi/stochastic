@@ -94,7 +94,7 @@ A stock though does not follow a Wiener process, there are two aspects the proce
 
 We know now that a stock price has to follow the mentioned process, so a solution to this SDE will be a good model for the stock.
 
-Using Ito's lemma we can solve the SDE applying a well defined function to the process, and to do so we will use the logarithm of $S_t$.
+Using Ito's lemma we can solve the SDE applying a well defined function to the process, and to do so we will use the natural logarithm of $S_t$.
 
 Which leads to solution:
 
@@ -102,4 +102,4 @@ $S_{t}=S_{0}\exp \left(\left(\mu -{\frac {\sigma ^{2}}{2}}\right)t+\sigma W_{t}\
 
 And this is always positive. Furthermore, this tells us that:
 
-$S_{t}=S_{0}\exp \left(\left(\mu -{\frac {\sigma ^{2}}{2}}\right)t+\sigma W_{t}\right)$
+$\ln(\frac\{S_{t}}{S_{0}})=\exp \left(\left(\mu -{\frac {\sigma ^{2}}{2}}\right)t+\sigma W_{t}\right)$
