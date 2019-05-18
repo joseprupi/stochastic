@@ -100,6 +100,6 @@ Which leads to solution:
 
 $S_{t}=S_{0}\exp \left(\left(\mu -{\frac {\sigma ^{2}}{2}}\right)t+\sigma W_{t}\right)$
 
-Which is always positive. Furthermore, this tells us that:
+And this is always positive. Furthermore, this tells us that:
 
 $S_{t}=S_{0}\exp \left(\left(\mu -{\frac {\sigma ^{2}}{2}}\right)t+\sigma W_{t}\right)$
