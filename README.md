@@ -90,4 +90,4 @@ plt.show()
 A stock though does not follow a Wiener process, there are two aspects the process has to take into account:
 
 * The drift has to be proportional to the stock price as you will expect same return independently of the current price, so <img src="/tex/ca71496917f0262372ec46bb36377fd2.svg?invert_in_darkmode&sanitize=true" align=middle width=76.92534465pt height=22.831056599999986pt/>
-* The variance (or uncertainty) affecting the stock has also to be proportional to the stock price, so <img src="/tex/f5d6e37e5931ca67a049e919a50244fa.svg?invert_in_darkmode&sanitize=true" align=middle width=123.92300414999998pt height=22.831056599999986pt/>
+* The variance (or uncertainty) affecting the stock has also to be proportional to the stock price, so <img src="/tex/37393fe229a240e33e89ec90aa2aef07.svg?invert_in_darkmode&sanitize=true" align=middle width=134.95038645pt height=22.831056599999986pt/>
