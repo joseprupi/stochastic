@@ -96,6 +96,6 @@ We know now that a stock price has to follow the mentioned process, so a solutio
 
 Using Ito's lemma we can solve the SDE applying a well defined function to the process, and to do so we will use the logarithm of $S_t$.
 
-Doing so we have that:
+Which leads to solution:
 
-$d(\ln S_t)=\mu Sdt+\sigma Sdz$
+$S_{t}=S_{0}\exp \left(\left(\mu -{\frac {\sigma ^{2}}{2}}\right)t+\sigma W_{t}\right)$
