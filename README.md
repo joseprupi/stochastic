@@ -86,3 +86,8 @@ plt.show()
 </figure>
 
 #### Stock process ####
+
+A stock though does not follow a Wiener process, there are two aspects the process has to take into account:
+
+* The drift has to be proportional to the stock price as you will expect same return independently of the current price, so <img src="/tex/a67d5a4cc500037eae3ddf2a91e04f4a.svg?invert_in_darkmode&sanitize=true" align=middle width=99.08300324999999pt height=24.65753399999998pt/>
+* 
