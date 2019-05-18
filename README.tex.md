@@ -102,4 +102,4 @@ $S_{t}=S_{0}\exp \left(\left(\mu -{\frac {\sigma ^{2}}{2}}\right)t+\sigma W_{t}\
 
 And this is always positive. Furthermore, this tells us that:
 
-$\ln(\frac\{S_{t}}{S_{0}})=\exp \left(\left(\mu -{\frac {\sigma ^{2}}{2}}\right)t+\sigma W_{t}\right)$
+$\ln(\frac{S_{t}}{S_{0}})=\exp \left(\left(\mu -{\frac {\sigma ^{2}}{2}}\right)t+\sigma W_{t}\right)$
