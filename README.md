@@ -1,8 +1,10 @@
 # Stochastic processes #
 
 [Wiener proces](#wiener-process)
+[Stock proces](#stock-process)
 
 #### Wiener process ####
+
 
 An intuitive way of understanding [a Wiener process](https://en.wikipedia.org/wiki/Wiener_process) is seeing it as a limit of [random walk](https://github.com/joseprupi/randomwalk). From wikipedia:
 
@@ -81,3 +83,5 @@ plt.show()
 <figure>
     <img src="/img/generalized_wiener.png" >
 </figure>
+
+#### Stock process ####
