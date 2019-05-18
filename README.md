@@ -104,4 +104,4 @@ And this is always positive. Furthermore, this tells us that:
 
 <img src="/tex/6d01601a3863a93c212ce89b019d8f9f.svg?invert_in_darkmode&sanitize=true" align=middle width=242.4077139pt height=37.80850590000001pt/>
 
-Which also "approximately" models the return as normal (see [this](https://stats.stackexchange.com/questions/244199/why-is-it-that-natural-log-changes-are-percentage-changes-what-is-about-logs-th/244237#244237) )
+Which also "approximately" models the stock return as normal (see [this](https://stats.stackexchange.com/questions/244199/why-is-it-that-natural-log-changes-are-percentage-changes-what-is-about-logs-th/244237#244237) )
