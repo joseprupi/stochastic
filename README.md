@@ -99,3 +99,7 @@ Using Ito's lemma we can solve the SDE applying a well defined function to the p
 Which leads to solution:
 
 <img src="/tex/32f319e2059eaaee35734a48a0d7ca97.svg?invert_in_darkmode&sanitize=true" align=middle width=233.55248895pt height=37.80850590000001pt/>
+
+Which is always positive. Furthermore, this tells us that:
+
+<img src="/tex/32f319e2059eaaee35734a48a0d7ca97.svg?invert_in_darkmode&sanitize=true" align=middle width=233.55248895pt height=37.80850590000001pt/>
