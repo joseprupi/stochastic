@@ -94,7 +94,7 @@ A stock though does not follow a Wiener process, there are two aspects the proce
 
 We know now that a stock price has to follow the mentioned process, so a solution to this SDE will be a good model for the stock.
 
-Using Ito's lemma we can solve the SDE applying a well defined function to the process, and to do so we will use the logarithm of <img src="/tex/9f8bba50b95de09625626ddafa0698eb.svg?invert_in_darkmode&sanitize=true" align=middle width=15.04571639999999pt height=22.465723500000017pt/>.
+Using Ito's lemma we can solve the SDE applying a well defined function to the process, and to do so we will use the natural logarithm of <img src="/tex/9f8bba50b95de09625626ddafa0698eb.svg?invert_in_darkmode&sanitize=true" align=middle width=15.04571639999999pt height=22.465723500000017pt/>.
 
 Which leads to solution:
 
@@ -102,4 +102,4 @@ Which leads to solution:
 
 And this is always positive. Furthermore, this tells us that:
 
-<img src="/tex/32f319e2059eaaee35734a48a0d7ca97.svg?invert_in_darkmode&sanitize=true" align=middle width=233.55248895pt height=37.80850590000001pt/>
+<img src="/tex/4e1cb2dec68baf1cc9bb84b1c9b51ddd.svg?invert_in_darkmode&sanitize=true" align=middle width=259.86313319999994pt height=37.80850590000001pt/>
