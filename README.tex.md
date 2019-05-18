@@ -91,3 +91,11 @@ A stock though does not follow a Wiener process, there are two aspects the proce
 
 * The drift has to be proportional to the stock price as you will expect same return independently of the current price, so $dS=\mu Sdt$
 * The variance (or uncertainty) affecting the stock has also to be proportional to the stock price, so $dS=\mu Sdt+\sigma Sdz$
+
+We know now that a stock price has to follow the mentioned process, so a solution to this SDE will be a good model for the stock.
+
+Using Ito's lemma we can solve the SDE applying a well defined function to the process, and to do so we will use the logarithm of $S_t$.
+
+Doing so we have that:
+
+$d(\ln S_t)=\mu Sdt+\sigma Sdz$
