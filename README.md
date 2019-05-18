@@ -96,6 +96,6 @@ We know now that a stock price has to follow the mentioned process, so a solutio
 
 Using Ito's lemma we can solve the SDE applying a well defined function to the process, and to do so we will use the logarithm of <img src="/tex/9f8bba50b95de09625626ddafa0698eb.svg?invert_in_darkmode&sanitize=true" align=middle width=15.04571639999999pt height=22.465723500000017pt/>.
 
-Doing so we have that:
+Which leads to solution:
 
-<img src="/tex/3e0b014b7e85ec987e9b8cbe4b251c4c.svg?invert_in_darkmode&sanitize=true" align=middle width=169.0143807pt height=24.65753399999998pt/>
+<img src="/tex/32f319e2059eaaee35734a48a0d7ca97.svg?invert_in_darkmode&sanitize=true" align=middle width=233.55248895pt height=37.80850590000001pt/>
