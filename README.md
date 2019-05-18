@@ -102,4 +102,4 @@ Which leads to solution:
 
 And this is always positive. Furthermore, this tells us that:
 
-<img src="/tex/4e1cb2dec68baf1cc9bb84b1c9b51ddd.svg?invert_in_darkmode&sanitize=true" align=middle width=259.86313319999994pt height=37.80850590000001pt/>
+<img src="/tex/6d01601a3863a93c212ce89b019d8f9f.svg?invert_in_darkmode&sanitize=true" align=middle width=242.4077139pt height=37.80850590000001pt/>
