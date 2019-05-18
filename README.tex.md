@@ -1,6 +1,7 @@
 # Stochastic processes #
 
 [Wiener proces](#wiener-process)
+
 [Stock proces](#stock-process)
 
 #### Wiener process ####
@@ -43,7 +44,7 @@ Being $z$ the aforementioned variabe, the $dz$ term can be seen as adding $b$ va
 * Mean of $\Delta x = a\Delta t$
 * Standard deviation of $\Delta x = b\sqrt{\Delta T}$
 
-Discretizing the process and with a small $\Delta t$ we can now plot a sample of one possible path of the process, lets say $a=0.05$ and $b=20$. Where the red line shows the drift, the green one the wiener process and the blue one the generalized wiener process (drift addedd);
+Discretizing the process and with a small $\Delta t$ we can now plot a sample of one possible path of the process, lets say $a=0.05$ and $b=20$. Where the red line shows the drift, the green one the wiener process and the blue one the generalized wiener process (drift added);
 
 [generalized_wiener_process.py](https://github.com/joseprupi/stochastic/blob/master/python/generalized_wiener_process.py)
 
