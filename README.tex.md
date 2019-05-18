@@ -103,3 +103,5 @@ $S_{t}=S_{0}\exp \left(\left(\mu -{\frac {\sigma ^{2}}{2}}\right)t+\sigma W_{t}\
 And this is always positive. Furthermore, this tells us that:
 
 $\ln(\frac{S_{t}}{S_{0}})=\exp \left(\left(\mu -{\frac {\sigma ^{2}}{2}}\right)t+\sigma W_{t}\right)$
+
+Which also "approximately" models the return as normal (see [this](https://stats.stackexchange.com/questions/244199/why-is-it-that-natural-log-changes-are-percentage-changes-what-is-about-logs-th/244237#244237) )
