@@ -91,3 +91,11 @@ A stock though does not follow a Wiener process, there are two aspects the proce
 
 * The drift has to be proportional to the stock price as you will expect same return independently of the current price, so <img src="/tex/ca71496917f0262372ec46bb36377fd2.svg?invert_in_darkmode&sanitize=true" align=middle width=76.92534465pt height=22.831056599999986pt/>
 * The variance (or uncertainty) affecting the stock has also to be proportional to the stock price, so <img src="/tex/37393fe229a240e33e89ec90aa2aef07.svg?invert_in_darkmode&sanitize=true" align=middle width=134.95038645pt height=22.831056599999986pt/>
+
+We know now that a stock price has to follow the mentioned process, so a solution to this SDE will be a good model for the stock.
+
+Using Ito's lemma we can solve the SDE applying a well defined function to the process, and to do so we will use the logarithm of <img src="/tex/9f8bba50b95de09625626ddafa0698eb.svg?invert_in_darkmode&sanitize=true" align=middle width=15.04571639999999pt height=22.465723500000017pt/>.
+
+Doing so we have that:
+
+<img src="/tex/3e0b014b7e85ec987e9b8cbe4b251c4c.svg?invert_in_darkmode&sanitize=true" align=middle width=169.0143807pt height=24.65753399999998pt/>
